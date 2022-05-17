@@ -41,6 +41,16 @@ h2 {
     box-sizing: border-box;}
 
 .container2 {
+    width: 1850px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-left: 100px;
+    max-width: 100%;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;}
+
+.container3 {
     width: 1750px;
     margin: 0 auto;
     padding-top: 10px;
@@ -58,7 +68,7 @@ h2 {
     box-sizing: border-box;
     text-align: center;
     color: #e6e6e6;
-    text-shadow: darkgray 4px 4px;
+    text-shadow: rgb(123, 123, 123) 2px 2px;
     padding-top: 100px;}
 
 .welcomnf{
