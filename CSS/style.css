@@ -1,50 +1,44 @@
 body {
-    background-image: url(BGIs/hero.jpg);
+    background-image: url(BGIs/download3.png);
     background-size: cover;
     position:fixed;
       height: 100vh;
       width: 100vw;
-      margin: 0;
-  }
+      margin: 0;}
 
 html {
-    margin: 0;
-}
+    margin: 0;}
       
 main { 
     display: block;
-    padding: 30px 0px;
-}
+    padding: 0px 0px;}
 
 h1, h2, h3, h4, h5, h6, p, a, input, div, textarea, label {
-    margin: 0px;
-}
+    margin: 0px;}
 
-h2 { font-size: 20px; }
+h2 { 
+    font-size: 20px; }
 
 .a {/*for uls only*/
     list-style: circle;
     padding-left:0px;
     font-weight: 400;
     font-style: normal;
-    margin: 0;
-}
+    margin: 0;}
 
 .b {/*for uls only*/
     list-style: none;
     padding-left: 0px;
     font-weight: 400;
     font-style: normal;
-    margin: 0;
-}
+    margin: 0;}
 
 .container {
     width: 1500px;
     margin: 0;
     padding: 0px;
     max-width: 100%;
-    box-sizing: border-box;
-}
+    box-sizing: border-box;}
 
 .container2 {
     width: 1750px;
@@ -53,65 +47,68 @@ h2 { font-size: 20px; }
     padding-left: 100px;
     max-width: 100%;
     font-family: Arial, Helvetica, sans-serif;
-    box-sizing: border-box;
-}
+    box-sizing: border-box;}
 
 .welcome {
     width: 1500px;
-    font-size: 12vw;
     font-family:Arial, Helvetica, sans-serif;
+    font-size: 12vw;
     margin: 0 auto;
     max-width: 100%;
     box-sizing: border-box;
     text-align: center;
-    color: #6280a5;
+    color: #e6e6e6;
     text-shadow: darkgray 4px 4px;
-}
+    padding-top: 100px;}
+
+.welcomnf{
+    width: 1500px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    font-weight: 700;
+    max-width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    color: #e6e6e6;
+    padding-top: 100px;}
 
 header { 
-    background: rgb(25, 153, 97); 
+    background: rgb(0, 0, 0); 
     padding: 20px;
     opacity: 0.8;
     width: 99%;
-    margin: 0;
-}
+    margin: 0;}
 
 header div a { 
-    color: #e8eff8;
-    
-}
-
+    color: #e8eff8;}
 
 .title {
     display: flex;
     color: #fff;
     font-size: 16px;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-}
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;}
 
 nav { 
-    background: #324f68;
+    background: #a8a8a8a9;
     width: 100vw;
     opacity: 0.8;
     margin: 0;
-    top: 55px;
-}
+    top: 55px;}
 
 nav li a { 
     color: #e8eff8;
     display: inline-block;
     padding: 10px 10px;
-}
+    font-weight: 600;}
 
 footer {
     width: 100vw;
     position:absolute;
     bottom: 0px;
-    background: #333;
-    color:aliceblue;
+    background: rgba(123, 123, 123, 0.491);
+    color:rgb(240, 248, 255);
     padding: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
-    height: 150px;
-}
+    height: 150px;}
