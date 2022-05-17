@@ -80,7 +80,8 @@ h2 {
     box-sizing: border-box;
     text-align: center;
     color: #e6e6e6;
-    padding-top: 100px;}
+    padding-top: 100px;
+    font-size: medium;}
 
 header {
     background: rgb(0, 0, 0); 
@@ -90,7 +91,8 @@ header {
     margin: 0;}
 
 header div a { 
-    color: #e8eff8;}
+    color: #e8eff8;
+    font-size: large;}
 
 .title {
     display: flex;
@@ -108,11 +110,12 @@ nav {
     margin: 0;
     top: 55px;}
 
-nav li a { 
+nav li a {
     color: #e8eff8;
     display: inline-block;
     padding: 10px 10px;
-    font-weight: 600;}
+    font-weight: 600;
+    font-size: medium;}
 
 footer {
     width: 100vw;
@@ -122,6 +125,7 @@ footer {
     color:rgb(240, 248, 255);
     padding: 10px;
     line-height: 120%;
+    font-size: medium;
     padding-top: 20px;
     padding-bottom: 20px;
     height: 120px;}
