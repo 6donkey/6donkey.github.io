@@ -41,11 +41,13 @@ h2 {
     box-sizing: border-box;}
 
 .ab {
+    Overflow-y:scroll;
     color: #e8eff8;
     font-weight: 600;
     font-family: "Lucida Console", "Courier New", monospace;
     padding-top: 2.75vw;
-    font-size: 17px;}
+    font-size: 17px;
+    height: 50vh;}
 
 .container2 {
     width: 1850px;
