@@ -62,6 +62,7 @@ h2 {
 .container3 {
     width: 1650px;
     margin: 0 auto;
+    padding-top: 10px;
     padding-left: 100px;
     max-width: 100%;
     font-family: Arial, Helvetica, sans-serif;
@@ -132,7 +133,18 @@ footer {
     color:rgb(240, 248, 255);
     padding: 10px;
     line-height: 120%;
-    overflow: hidden;
+    overflow: scroll;
     padding-top: 20px;
     padding-bottom: 20px;
     height: 120px;}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.example::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .example {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
