@@ -43,7 +43,7 @@ h2 {
 .ab {
     color: #e8eff8;
     font-weight: 400;
-    padding-top: 50px;
+    padding-top: 2.75vw;
     font-size: 1vw;}
 
 .container2 {
@@ -98,12 +98,11 @@ header {
 
 header div a { 
     color: #e8eff8;
-    font-size: large;}
+    font-size: 18px;}
 
 .title {
     display: flex;
     color: #fff;
-    font-size: 16px;
     font-weight: 1000;
     font-family: Arial, Helvetica, sans-serif;}
 
@@ -121,7 +120,7 @@ nav li a {
     display: inline-block;
     padding: 10px 10px;
     font-weight: 600;
-    font-size: 0.85vw;}
+    font-size: 16px;}
 
 footer {
     width: 100vw;
@@ -131,7 +130,7 @@ footer {
     color:rgb(240, 248, 255);
     padding: 10px;
     line-height: 120%;
-    font-size: 0.85vw;
+    font-size: 16px;
     padding-top: 20px;
     padding-bottom: 20px;
-    height: 120px;}
+    height: 6vw;}
