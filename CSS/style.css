@@ -133,7 +133,7 @@ footer {
     color:rgb(240, 248, 255);
     padding: 10px;
     line-height: 120%;
-    
+    overflow: scroll;
     padding-top: 20px;
     padding-bottom: 20px;
     height: 120px;}
