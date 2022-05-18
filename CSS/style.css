@@ -34,7 +34,7 @@ h2 {
     margin: 0;}
 
 .container {
-    width: 9vw;
+    width: 1500px;
     margin: 0;
     padding: 0px;
     max-width: 100%;
@@ -47,20 +47,20 @@ h2 {
     font-size: 16px;}
 
 .container2 {
-    width: 100vw;
+    width: 1850px;
     margin: 0 auto;
-    padding-top: 0.55vw;
-    padding-left: 5.5vw;
+    padding-top: 10px;
+    padding-left: 100px;
     max-width: 100%;
     font-weight: 650;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;}
 
 .container3 {
-    width: 90vw;
+    width: 1650px;
     margin: 0 auto;
-    padding-top: 0.55vw;
-    padding-left: 5.5vw;
+    padding-top: 10px;
+    padding-left: 100px;
     max-width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;}
