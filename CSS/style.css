@@ -52,8 +52,23 @@ h2 {
     padding-top: 10px;
     font-size: 17px;
     height: 49vh;
-    margin-top: 60px;}
+    margin-top: 40px;}
 
+.ab2 {
+    width: 900px;
+    margin: 0 auto;
+    Overflow-y: scroll;
+    color: #e8eff8;
+    font-weight: 600;
+    max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    padding: 20px;
+    padding-top: 10px;
+    font-size: 17px;
+    height: 49vh;
+    margin-top: 60px;}
+    
 .container2 {
     width: 1850px;
     margin: 0 auto;
@@ -113,6 +128,10 @@ header div a {
     color: #fff;
     font-weight: 1000;
     font-family: Arial, Helvetica, sans-serif;}
+
+.big {
+    font-size: 22px;
+}
 
 nav {
     border-bottom-left-radius: 20px;
