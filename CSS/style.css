@@ -40,7 +40,7 @@ h2 {
     box-sizing: border-box;}
 
 .ab {
-    width: 1650px;
+    width: 700px;
     margin: 0 auto;
     Overflow-y: scroll;
     color: #e8eff8;
@@ -149,7 +149,7 @@ footer {
   }
   
   /* Hide scrollbar for IE, Edge and Firefox */
-  .example {
+.example {
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
   }
